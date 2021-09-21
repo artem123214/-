@@ -1,0 +1,10 @@
+C:\Users\artem\source\repos\TechProgramming\TechProgramming\bin\Debug\TechProgramming.exe.config
+C:\Users\artem\source\repos\TechProgramming\TechProgramming\bin\Debug\TechProgramming.exe
+C:\Users\artem\source\repos\TechProgramming\TechProgramming\bin\Debug\TechProgramming.pdb
+C:\Users\artem\source\repos\TechProgramming\TechProgramming\obj\Debug\TechProgramming.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\TechProgramming\TechProgramming\obj\Debug\TechProgramming.FormCar.resources
+C:\Users\artem\source\repos\TechProgramming\TechProgramming\obj\Debug\TechProgramming.Properties.Resources.resources
+C:\Users\artem\source\repos\TechProgramming\TechProgramming\obj\Debug\TechProgramming.csproj.GenerateResource.cache
+C:\Users\artem\source\repos\TechProgramming\TechProgramming\obj\Debug\TechProgramming.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\TechProgramming\TechProgramming\obj\Debug\TechProgramming.exe
+C:\Users\artem\source\repos\TechProgramming\TechProgramming\obj\Debug\TechProgramming.pdb
